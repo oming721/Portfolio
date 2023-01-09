@@ -1,0 +1,1 @@
+<?phpsession_start();if(empty($_SESSION['enter'])){  $_SESSION['enter']=false;}$connect = mysqli_connect("localhost","root","","attendance_system");if (!$connect) {  die("Connection failed: " . mysqli_connect_error());}?>
