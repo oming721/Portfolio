@@ -1,0 +1,3 @@
+Taman Bukit Indah,,Jusco Bukit Indah,,12 July 2012,,Cash,,70,,Complete
+12,Jalan Rendas 11/2,Taman Rendas Indah,,ApU, Bukit Jalil,,30 July 2021,,Card::Master Card,,100,,Incomplete
+55,Jalan Jasa 32,,Mutira Tesco,,12 July 2012,,QR Code::Touch & Go,,120,,Complete
